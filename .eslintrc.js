@@ -79,7 +79,7 @@ module.exports = {
     'yoda': 2,
 
     /* Variables */
-    'no-shadow': 2,
+    'no-shadow': 0,
     'no-undef-init': 2,
     'no-use-before-define': [ 2, { functions: false } ],
 
@@ -271,6 +271,7 @@ module.exports = {
     '@typescript-eslint/no-extraneous-class': 2,
     '@typescript-eslint/no-for-in-array': 2,
     '@typescript-eslint/no-require-imports': 2,
+    '@typescript-eslint/no-shadow': 2,
     '@typescript-eslint/no-this-alias': 2,
     '@typescript-eslint/no-type-alias': 0,
     '@typescript-eslint/no-use-before-define': [ 2, { functions: false } ],

@@ -1,6 +1,6 @@
 {
   "name": "@phimimms/ncd-sim",
-  "version": "0.1.0-alpha.0",
+  "version": "0.1.0-alpha.1",
   "description": "A TCP server to simulate the ProXR Lite Relay Controller by NCD",
   "scripts": {
     "prebuild": "npm run clean:build",

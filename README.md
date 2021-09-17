@@ -6,7 +6,7 @@
 
 ## Installation
 
-1. Download the latest [package](https://github.com/phimimms/ncd-sim/packages/904085) // TODO:
+1. Download the latest [package](https://github.com/phimimms/ncd-sim/packages/993255)
 2. Extract the compressed download
 3. Open a terminal to the extracted package directory
 4. Run the TCP server via `node index.js`
